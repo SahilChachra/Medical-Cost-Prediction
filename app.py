@@ -19,17 +19,15 @@ def predict():
 
     print(features)
     final = np.array(features).reshape((1,6))
-    #print(type(final))
     print(final)
-    #print(final.shape)
     pred = model.predict(final)[0]
     print(pred)
-    #print(pred[0][0])
+
     
     if pred < 0:
-        return render_template('home.html', pred='Error calculating Amount!')
+        return render_template('op.html', pred='Error calculating Amount!')
     else:
-        return render_template('home.html', pred='Expected amount is {0:.3f}'.format(pred))
+        return render_template('op.html', pred='Expected amount is {0:.3f}'.format(pred))
 
 if __name__ == '__main__':
     app.run(debug=True)
