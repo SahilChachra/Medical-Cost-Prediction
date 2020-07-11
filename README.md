@@ -37,6 +37,11 @@ To predict things have been never so easy. I used to wonder how Insurance amount
     <li>Deployed model using Flask</li>
 </ol>
 
+## :key: Results
+
+####  Model gave 86% accuracy for Medical Insurance Amount Prediction suing <code>Random Forest Regressor</code>
+
+
 ## :file_folder: Dataset
 The dataset used can be downloaded here (Kaggle) - [Click to Download](https://www.kaggle.com/mirichoi0218/insurance)
 
