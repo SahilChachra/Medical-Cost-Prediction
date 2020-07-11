@@ -9,6 +9,7 @@
 
 ## :innocent: Motivation
 
+To predict things have been never so easy. I used to wonder how Insurance amount is charged normally. So, in the mean time I came across this dataset and thought of working on it! Using this I wanted to know how few features determine our insurance amount! 
  
 ## :hourglass: Some Screenshots
 
@@ -16,8 +17,7 @@
 
 ![](https://github.com/SahilChachra/Medical-Cost-Prediction/blob/master/sampleImages/AgevsCharges.png)
 
-![]()
-
+![](https://github.com/SahilChachra/Medical-Cost-Prediction/blob/master/sampleImages/deployments.png)
 
 ## :star: Features
 <ol>
@@ -36,19 +36,12 @@
     <li>Preparing model for deployment</li>
     <li>Deployed model using Flask</li>
 </ol>
+
 ## :file_folder: Dataset
 The dataset used can be downloaded here (Kaggle) - [Click to Download](https://www.kaggle.com/mirichoi0218/insurance)
 
-## :clap: And it's done!
-Feel free to mail me for any doubts/query 
-:email: sahil.chachra3@live.com
-
 ## :heart: Owner
-Made with :heart:&nbsp;  by [Sahil Chachra](https://github.com/chandrikadeb7)
-
-## :+1: Credits
-* [https://www.pyimagesearch.com/](https://www.pyimagesearch.com/)
-* [https://www.tensorflow.org/tutorials/images/transfer_learning](https://www.tensorflow.org/tutorials/images/transfer_learning)
+Made with :heart:&nbsp;  by [Sahil Chachra](https://github.com/SahilChachra)
 
 ## :eyes: License
-MIT © [Sahil Chachra](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/LICENSE)
+MIT © [Sahil Chachra](https://github.com/SahilChachra/Medical-Cost-Prediction/blob/master/LICENSE)
