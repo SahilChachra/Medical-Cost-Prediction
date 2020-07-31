@@ -1,4 +1,4 @@
-<h1 align="center">Medical Insurance Cost Prediction</h1>
+https://github.com/SahilChachra/Medical-Cost-Prediction.git<h1 align="center">Medical Insurance Cost Prediction</h1>
 
 <div align= "center">
   <h4>Medical Insurance Cost Prediction using Random Forest Regressor.</h4><br>
@@ -39,7 +39,7 @@ To predict things have been never so easy. I used to wonder how Insurance amount
 
 ## :key: Results
 
-####  Model gave 86% accuracy for Medical Insurance Amount Prediction suing <code>Random Forest Regressor</code>
+####  Model gave 86% accuracy for Medical Insurance Amount Prediction using <code>Random Forest Regressor</code>
 
 
 ## :file_folder: Dataset
