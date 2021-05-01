@@ -1,4 +1,4 @@
-https://github.com/SahilChachra/Medical-Cost-Prediction.git<h1 align="center">Medical Insurance Cost Prediction</h1>
+<h1 align="center">Medical Insurance Cost Prediction</h1>
 
 <div align= "center">
   <h4>Medical Insurance Cost Prediction using Random Forest Regressor.</h4><br>
