@@ -32,6 +32,6 @@ six==1.13.0
 sklearn==0.0
 traitlets==4.3.3
 wcwidth==0.1.8
-Werkzeug==0.16.0
+Werkzeug==2.2.3
 wincertstore==0.2
 gunicorn==20.0.4
