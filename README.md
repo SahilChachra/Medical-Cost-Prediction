@@ -41,6 +41,17 @@ To predict things have been never so easy. I used to wonder how Insurance amount
 
 ####  Model gave 86% accuracy for Medical Insurance Amount Prediction using <code>Random Forest Regressor</code>
 
+## How to run?
+<ol>
+    <li>Clone the repository</li>
+    <li>Check Python3 version (by typing python3 in terminal) and if required update it to 3.12</li>
+    <li>Install dependenceis - pip3 install -r requirements.txt</li>
+    <li>Download the insurance.csv file if not present in the folder by default. (Kaggle link below)</li>
+    <li>Now, open Medical Cost Prediction notebook and work on your model</li>
+    <li>In the end the model will be saved with the name - "rf_tuned.pkl"</li>
+    <li>Now, after trainig you model, simple run - python3 app.py to load Web app</li>
+    
+</ol>
 
 ## :file_folder: Dataset
 The dataset used can be downloaded here (Kaggle) - [Click to Download](https://www.kaggle.com/mirichoi0218/insurance)
